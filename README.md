@@ -2,15 +2,15 @@
 
 Click Download and run
 
-$ unzip nuodb-utilities-master.zip
+   $ unzip nuodb-utilities-master.zip
 
 Then, change directory to nuodb-utilities-master directory and copy utilities to your NuoDB server
 
-$ cd nuodb-utilities-master
+   $ cd nuodb-utilities-master
 
 untar the utility using
 
-tar -xvf filename.tar
+   tar -xvf filename.tar
 
 Then, follow the README instrutions to install or run the utility.
 
