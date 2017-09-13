@@ -1,6 +1,6 @@
 # nuodb-utilities - This repository is a collection of NuoDB utilities. Each contains a README with description and run instructions.
 
-Download the utilities zip file and run
+Click Download and run
 $ unzip nuodb-utilities-master.zip
 
 Then, change directory to nuodb-utilities-master directory and copy utilities to your NuoDB server
