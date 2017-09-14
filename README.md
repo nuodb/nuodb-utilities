@@ -4,7 +4,7 @@ Click Download and run
 
     $ unzip nuodb-utilities-master.zip
 
-Then, change directory to nuodb-utilities-master directory and copy utilities to your NuoDB server
+Then, change directory to *nuodb-utilities-master* directory and copy utilities to your NuoDB server
 
     $ cd nuodb-utilities-master
 
